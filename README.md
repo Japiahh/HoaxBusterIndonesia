@@ -116,10 +116,3 @@ This application can serve as a practical tool to increase public awareness and 
 ---
 
 **Made with ❤️ for a more informed Indonesia**
-
-### Saran tambahan:
-1. Ganti `https://github.com/yourusername/hoax-buster-indonesia.git` dengan link repository kamu yang sebenarnya.
-2. Jika ada folder `images/` atau `screenshots/`, kamu bisa tambahkan section **Screenshots** atau **Demo** di README.
-3. Kamu juga bisa menambahkan badge (accuracy, python version, etc.) di bagian atas jika mau.
-
-Mau saya tambahkan bagian **Screenshots**, **Installation Details**, atau **Future Work** juga?
